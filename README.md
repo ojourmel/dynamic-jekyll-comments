@@ -12,7 +12,7 @@ to dynamicaly load comments into a Jekyll blog. This requires a Jekyll plugin to
 
 The issue tracker will be used to track progress, and give feedback to usage.
 
-Special thanks to [Evan Seabrook](https://github.com/evangsea) for providing the base PHP system
+Special thanks to [Evan Seabrook](https://github.com/evangsea) for providing the base PHP system.
 
 ----
 
